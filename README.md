@@ -12,3 +12,6 @@ pip install -r requirements.txt
 
 py main.py
 
+# DO NOT FORGET
+
+Please remember to include your Roblox cookie in the 'cookie.txt' file.
