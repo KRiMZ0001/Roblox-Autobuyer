@@ -16,8 +16,3 @@ py main.py
 
 Please remember to include your Roblox cookie in the 'cookie.txt' file.
 
-# News
-
-I've figured out it's making duplicates, and now I've got over 1k+ Pages of Heads.
-
-![image](https://github.com/KRiMZ0001/Roblox-Autobuyer/assets/130838241/c4dcf6c0-1ca3-418e-bcb3-3f9eeb96c5a3)
